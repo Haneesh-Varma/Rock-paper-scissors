@@ -29,5 +29,3 @@ A fun and simple Rock-Paper-Scissors game for the terminal with emojis 🎉
 ## 🛠 Requirements
 - Python 3.x  
 - No external libraries required (only uses `random` module)  
-
-## 🌟 Example Gameplay
